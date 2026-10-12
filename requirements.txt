@@ -1,0 +1,6 @@
+mlflow
+scikit-learn
+flask
+prometheus-client
+numpy
+joblib
